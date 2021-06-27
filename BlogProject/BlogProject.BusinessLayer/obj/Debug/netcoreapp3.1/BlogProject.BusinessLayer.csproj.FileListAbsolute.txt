@@ -1,0 +1,15 @@
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\netcoreapp3.1\BlogProject.BusinessLayer.deps.json
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\netcoreapp3.1\BlogProject.BusinessLayer.runtimeconfig.json
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\netcoreapp3.1\BlogProject.BusinessLayer.runtimeconfig.dev.json
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\netcoreapp3.1\BlogProject.BusinessLayer.dll
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\netcoreapp3.1\BlogProject.BusinessLayer.pdb
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\netcoreapp3.1\BlogProject.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\netcoreapp3.1\BlogProject.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\netcoreapp3.1\BlogProject.BusinessLayer.AssemblyInfo.cs
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\netcoreapp3.1\BlogProject.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\netcoreapp3.1\BlogProject.BusinessLayer.dll
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\netcoreapp3.1\BlogProject.BusinessLayer.pdb
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\netcoreapp3.1\BlogProject.BusinessLayer.genruntimeconfig.cache
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\netcoreapp3.1\BlogProject.DataLayer.dll
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\netcoreapp3.1\BlogProject.DataLayer.pdb
+C:\Users\furka\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\netcoreapp3.1\BlogProject.BusinessLayer.csproj.CopyComplete

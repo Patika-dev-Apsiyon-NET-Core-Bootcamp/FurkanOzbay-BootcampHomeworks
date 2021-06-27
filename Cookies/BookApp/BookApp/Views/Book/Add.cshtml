@@ -1,0 +1,27 @@
+﻿@model BookViewModel
+
+
+@using (Html.BeginForm("Add", "Book", FormMethod.Post))
+{
+    <div class="form-group">
+        <label asp-for="BookName">Email address</label>
+        <input class="form-control" asp-for="BookName" placeholder="Kitap Adı">
+    </div>
+    <div class="form-group">
+        <label asp-for="Author">Email address</label>
+        <input class="form-control" asp-for="Author" placeholder="Yazarr">
+    </div>
+    <div class="form-group">
+        <label asp-for="PageNumbers">Email address</label>
+        <input class="form-control" asp-for="PageNumbers" placeholder="sayfa sayısı">
+    </div>
+    <div class="form-group">
+        <label asp-for="Price">Email address</label>
+        <input class="form-control" asp-for="Price" placeholder="fiyat ₺">
+    </div>
+    <div class="form-group">
+        <label asp-for="BookName">Email address</label>
+        <input class="form-control" asp-for="BookName" placeholder="Kitap Adı">
+    </div>
+    <input type="submit" class="btn btn-primary" value="Ekle" />
+}

@@ -1,0 +1,8 @@
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\4.Hafta\1-Cumartesi\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\CleanArchitecture.WebUI.csprojAssemblyReference.cache
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\4.Hafta\1-Cumartesi\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\CleanArchitecture.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\4.Hafta\1-Cumartesi\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\CleanArchitecture.WebUI.AssemblyInfoInputs.cache
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\4.Hafta\1-Cumartesi\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\CleanArchitecture.WebUI.AssemblyInfo.cs
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\4.Hafta\1-Cumartesi\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\CleanArchitecture.WebUI.csproj.CoreCompileInputs.cache
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\4.Hafta\1-Cumartesi\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\CleanArchitecture.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\4.Hafta\1-Cumartesi\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\CleanArchitecture.WebUI.RazorAssemblyInfo.cache
+D:\Yazılım\kodluyoruz\.NET Core Bootcamp\4.Hafta\1-Cumartesi\CleanArchitecture\CleanArchitecture.WebUI\obj\Debug\net5.0\CleanArchitecture.WebUI.RazorAssemblyInfo.cs
