@@ -1,0 +1,14 @@
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\bin\Debug\netcoreapp2.1\ShopDb.API.deps.json
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\bin\Debug\netcoreapp2.1\ShopDb.API.runtimeconfig.json
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\bin\Debug\netcoreapp2.1\ShopDb.API.runtimeconfig.dev.json
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\bin\Debug\netcoreapp2.1\ShopDb.API.dll
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\bin\Debug\netcoreapp2.1\ShopDb.API.pdb
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\obj\Debug\netcoreapp2.1\ShopDb.API.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\obj\Debug\netcoreapp2.1\ShopDb.API.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\obj\Debug\netcoreapp2.1\ShopDb.API.RazorAssemblyInfo.cache
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\obj\Debug\netcoreapp2.1\ShopDb.API.RazorAssemblyInfo.cs
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\obj\Debug\netcoreapp2.1\ShopDb.API.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\obj\Debug\netcoreapp2.1\ShopDb.API.AssemblyInfo.cs
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\obj\Debug\netcoreapp2.1\ShopDb.API.RazorTargetAssemblyInfo.cache
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\obj\Debug\netcoreapp2.1\ShopDb.API.dll
+C:\Users\furka\source\repos\ShopDb.API\ShopDb.API\obj\Debug\netcoreapp2.1\ShopDb.API.pdb
